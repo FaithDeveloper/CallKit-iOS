@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "ViewController.saveUserData():ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "userDefaults!.value(forKey: &quot;phoneNumberArray&quot;) as! [Int]">
+            </PersistentString>
+            <PersistentString
+               value = "storedPlayer">
+            </PersistentString>
+            <PersistentString
+               value = "userDefaults!.value(forKey: &quot;nameArray&quot;) as! [String]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
