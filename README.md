@@ -5,7 +5,7 @@ CallKit의 기본적인 로직 및 사용법 정리
 
   How to use CallKit.
   
-  <img src="/assets/callkit.jpg" width="200" height="400" />
+  <img src="/assets/img_callkit.jpg" width="200" height="400" />
   
 #### 2. How to create this project.
 
