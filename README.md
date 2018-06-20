@@ -316,6 +316,8 @@ for (phoneNumber, label) in labelsKeyedByPhoneNumber.sorted(by: <) {
 
 AppGroups 한 곳에서 UserDefault 을 공용으로 사용할 수 있기에 데이터 갱신을 실시간으로 할 수 있습니다. 위와 같은 Group 기능으로 "Widget" 도 데이터 통신으로 실시간 데이터로 업데이트 하고 있습니다. 
 
+<br/>
+
 # **정리**
 
-CallKit 을 사용하는 방법에 대해서 알아봤습니다.
+CallKit 을 사용하는 방법에 대해서 알아봤습니다. 전체 소스코드는 [소스코드](https://github.com/FaithDeveloper/CallKit-iOS)에서 확인 할 수 있습니다.
